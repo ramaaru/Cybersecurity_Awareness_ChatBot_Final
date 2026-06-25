@@ -75,3 +75,23 @@ The **Cyber Security Awareness Bot v3.0** is an interactive desktop application 
 | Responsive | Adapts to different window sizes |
 
 ---
+## Technologies Used
+
+| Technology | Version | Purpose |
+|------------|---------|---------|
+| .NET Framework | 8.0 | Application framework |
+| WPF | 8.0 | User interface |
+| C# | 12.0 | Programming language |
+| System.Speech | 10.0.5 | Text-to-speech |
+| System.Windows.Extensions | 10.0.5 | Sound playback |
+| JSON | - | Data persistence |
+| MSTest | 17.8.0 | Unit testing |
+
+---
+
+## Installation
+
+### Prerequisites
+- Windows 10 or later
+- .NET 8.0 SDK or later
+- Visual Studio 2022 or later (recommended)
